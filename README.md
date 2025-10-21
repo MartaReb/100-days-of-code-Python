@@ -6,4 +6,5 @@
 
 </div>
 ## 📚 Beginner 
-- [x][Day 1:](Day%2001/main.py) Working with Variables in Python to Manage Data
+
+- [x][Day 1](https://github.com/MartaReb/100-days-of-code-Python/blob/main/Day%2001/main.py) Working with Variables in Python to Manage Data
