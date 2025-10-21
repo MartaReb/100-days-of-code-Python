@@ -5,3 +5,5 @@
 
 
 </div>
+## 📚 Beginner 
+- [x][Day 1:](Day%2001/main.py) Working with Variables in Python to Manage Data
