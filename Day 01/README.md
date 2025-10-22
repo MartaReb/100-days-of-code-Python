@@ -8,4 +8,4 @@ Concepts Practised
 - Python Variables
 - Variable Naming
 
-Project: Band Name Generator
+Project: [Band Name Generator](https://github.com/MartaReb/100-days-of-code-Python/blob/main/Day%2001/main.py)
