@@ -1,4 +1,4 @@
-<h1 align="center">100 Days of Code: The Complete Python Pro Bootcamp </h1>
+<h1 align="center">Python-100 days of code journey</h1>
 <div align="center"> 
   
 ![Python_Bootcamp](https://github.com/user-attachments/assets/824df764-7e4c-475e-b36e-c74c2e61d707)
@@ -15,4 +15,5 @@ The goal of this repo is to document my learning journey by building **100 Pytho
 
 ## 📚 Beginner 
 
-- [x] [Day 1](https://github.com/MartaReb/100-days-of-code-Python/blob/main/Day%2001/main.py) - Working with Variables in Python to Manage Data
+- [x] [Day 1](https://github.com/MartaReb/Python-100days-Of-Code-Journey/tree/main/Day%2001) - Working with Variables in Python to Manage Data
+- [x] [Day 2](https://github.com/MartaReb/Python-100days-Of-Code-Journey/tree/main/Day%2002) - Understanding Data Types and How to Manipulate String
